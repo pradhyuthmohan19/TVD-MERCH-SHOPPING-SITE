@@ -12,7 +12,7 @@ const Navbar = () => {
     <div className="navbar">
       <div className="nav-logo">
         <img src={logo} alt="" />
-        <i>TVD Merch</i>
+        <p>TVD Merch</p>
       </div>
       <ul className="nav-menu">
         <li
